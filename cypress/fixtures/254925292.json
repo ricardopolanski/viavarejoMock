@@ -1,0 +1,672 @@
+{
+    "pedido": {
+      "idPedido": 254925292,
+      "idPedidoOrigem": "",
+      "pedidoPlus": 0,
+      "idListaCompra": null,
+      "ipCliente": "2804:138b:c169:ff04:0:25:ef73:1b01",
+      "tipoPedido": "Normal",
+      "dataPedido": "14/02/2021 21:43:00",
+      "valorJuros": 0,
+      "valorEmbalagem": 0,
+      "valorFrete": 0,
+      "valorDesconto": 0,
+      "valorTotal": 0,
+      "flagCompraSige": false,
+      "canalVenda": {
+        "idCanalVenda": "APP",
+        "descricao": "Aplicativo Mobile"
+      },
+      "destinatario": {
+        "cpfCnpj": "040.137.848-90",
+        "dataNascimento": "12/10/1962 00:00:00",
+        "email": "dalton_franca_lopes@hotmail.com",
+        "nome": "irandi sabino dos santos",
+        "genero": "",
+        "endereco": {
+          "bairro": "Vila Nova Cintra",
+          "cep": "08744-150",
+          "complemento": "",
+          "numero": 150,
+          "pontoReferencia": "padaria estrela",
+          "rua": " Rua Mário Ioshida",
+          "municipio": "Mogi das Cruzes",
+          "pais": "BRA",
+          "uf": "SP"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "1146381762"
+          },
+          {
+            "tipo": "",
+            "numero": "1167273648"
+          }
+        ]
+      },
+      "clienteFaturamento": {
+        "cpfCnpj": "040.137.848-90",
+        "dataNascimento": "12/10/1962 00:00:00",
+        "email": "dalton_franca_lopes@hotmail.com",
+        "nome": "dalton frança lopes",
+        "genero": "",
+        "endereco": {
+          "bairro": "Vila Nova Cintra",
+          "cep": "08744-150",
+          "complemento": "",
+          "numero": 150,
+          "pontoReferencia": "padaria estrela",
+          "rua": " Rua Mário Ioshida",
+          "municipio": "Mogi das Cruzes",
+          "pais": "BRA",
+          "uf": "SP"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "1146381762"
+          },
+          {
+            "tipo": "",
+            "numero": "1167273648"
+          }
+        ]
+      },
+      "vendedor": {
+        "idVendedor": null,
+        "nome": null,
+        "login": null,
+        "Matricula": null,
+        "IdFilial": null
+      },
+      "utm": {
+        "midia": "push",
+        "campanha": "20210210_cb_push_android_13h",
+        "parceiro": "push_promocional",
+        "statusPagamento": 0
+      },
+      "entregas": [
+        {
+          "idEntrega": 25492529201,
+          "idCompraEntrega": 112082204,
+          "idEntregaErp": 1,
+          "dataPrometida": "22/02/2021 00:00:00",
+          "dataAjustada": null,
+          "dataCorrigida": null,
+          "dataLimite": "19/02/2021 00:00:00",
+          "dataStatus": "18/02/2021 08:17:07",
+          "idEntregaOrigem": null,
+          "idTipoEntrega": 1,
+          "idPedidoMarketplace": null,
+          "idSolicitacaoOrigem": null,
+          "nomeTipoEntrega": "Normal",
+          "ordemDevolucao": null,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": 162.91,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 1,
+          "PrazoEntregaCliente": 2,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": false,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": "18/02/2021 06:45:56",
+            "status": "2 - Sucesso",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [
+            {
+              "data": "19/02/2021 00:00:00",
+              "tipo": "FRACIONADA"
+            },
+            {
+              "data": "18/02/2021 00:00:00",
+              "tipo": "FRACIONADA"
+            }
+          ],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [],
+          "filial": {
+            "centroDistribuicao": "Jundiaí - Esgotamento Filial 4",
+            "nome": "CD_1200",
+            "idFilial": 1200,
+            "cnpj": "33041260094711",
+            "uf": "SP"
+          },
+          "lojista": {
+            "idLojista": 10037,
+            "nome": "Casas Bahia"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 0,
+            "serie": null,
+            "chaveNfe": null
+          },
+          "transportadora": {
+            "idTransportadora": 10520136000186,
+            "nome": "CARRIERS LOGISTICA E TRANSPORT"
+          },
+          "motivo": {
+            "assunto": null,
+            "categoria": null,
+            "data": null,
+            "motivo": null,
+            "idAssunto": 0,
+            "idCategoria": 0,
+            "idMotivo": 0,
+            "observacao": null,
+            "operador": null,
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": "",
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "Casas Bahia",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 50005001,
+              "idSkuExterno": null,
+              "marca": "Arno",
+              "nome": "Liquidificador Arno Power Max 700 Limpa Fácil LN60 Preto 700W com 5 Velocidades",
+              "peso": 1960,
+              "pesoCubado": 5.72,
+              "preco": 152.92,
+              "status": 1,
+              "tipoEstoque": "N",
+              "tipoSku": "Produto Físico",
+              "valorDescontoUnitario": 26.98,
+              "valorFreteUnitario": 9.99,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": 162.91,
+              "idSku": 50005001,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "18/02/2021 08:17:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "18/02/2021 06:45:59",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AS6",
+                "descricao": "AGUARDANDO ROTEIRIZACAO"
+              }
+            },
+            {
+              "dataHora": "18/02/2021 06:45:58",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ICE",
+                "descricao": "INCLUSAO DE CARGA DE ENTREGA"
+              }
+            },
+            {
+              "dataHora": "18/02/2021 06:45:56",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PAP",
+                "descricao": "Pedido Aprovado"
+              }
+            },
+            {
+              "dataHora": "18/02/2021 05:14:29",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_PAP",
+                "descricao": "Pedido Aprovado (PROXY)"
+              }
+            },
+            {
+              "dataHora": "14/02/2021 21:47:40",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AAP",
+                "descricao": "Enviado Pagamento"
+              }
+            },
+            {
+              "dataHora": "14/02/2021 21:47:40",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAP",
+                "descricao": "Crédito Aprovado"
+              }
+            },
+            {
+              "dataHora": "14/02/2021 21:45:59",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AMC",
+                "descricao": "Analise Manual de Fraude"
+              }
+            },
+            {
+              "dataHora": "14/02/2021 21:43:32",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "14/02/2021 21:43:32",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PEI",
+                "descricao": "Pedido Incluido"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": null
+          }
+        },
+        {
+          "idEntrega": 25492529202,
+          "idCompraEntrega": 112128082,
+          "idEntregaErp": 1,
+          "dataPrometida": "19/02/2021 00:00:00",
+          "dataAjustada": null,
+          "dataCorrigida": null,
+          "dataLimite": "19/02/2021 00:00:00",
+          "dataStatus": "18/02/2021 09:47:01",
+          "idEntregaOrigem": 25492529201,
+          "idTipoEntrega": 17,
+          "idPedidoMarketplace": null,
+          "idSolicitacaoOrigem": "210215-021064",
+          "nomeTipoEntrega": "Insucesso de entrega",
+          "ordemDevolucao": 3,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": -162.91,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 0,
+          "PrazoEntregaCliente": 1,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": false,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": "18/02/2021 08:17:07",
+            "status": "2 - Sucesso",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [
+            {
+              "data": "19/02/2021 00:00:00",
+              "tipo": "FRACIONADA"
+            }
+          ],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [
+            {
+              "idCompraEntregaEstorno": 2713550,
+              "dataStatus": null,
+              "dataValidade": null,
+              "nomeFormaPagamento": "Boleto Bradesco",
+              "nomeTipoPagamento": "Vale                          ",
+              "status": {
+                "data": null,
+                "idDocumento": null,
+                "observacao": null,
+                "valorStatus": null
+              },
+              "agencia": null,
+              "banco": null,
+              "conta": null,
+              "cpfCnpj": null,
+              "digitoAgencia": null,
+              "digitoConta": null,
+              "favorecido": "dalton frança lopes",
+              "idCompraFormaPagamento": 100957157,
+              "idFormaPagamento": 12,
+              "rg": null,
+              "tipoConta": null,
+              "tipoPagamento": 2,
+              "valor": -162.91,
+              "valorJuros": 0
+            }
+          ],
+          "filial": {
+            "centroDistribuicao": "Jundiaí - Esgotamento Filial 4",
+            "nome": "CD_1200",
+            "idFilial": 1200,
+            "cnpj": "33041260094711",
+            "uf": "SP"
+          },
+          "lojista": {
+            "idLojista": 10037,
+            "nome": "Casas Bahia"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 0,
+            "serie": null,
+            "chaveNfe": null
+          },
+          "transportadora": {
+            "idTransportadora": 10520136000186,
+            "nome": "CARRIERS LOGISTICA E TRANSPORT"
+          },
+          "motivo": {
+            "assunto": "Troca ou Cancelamento*",
+            "categoria": "Solicitação",
+            "data": "15/02/2021 16:23:00",
+            "motivo": "Arrependimento*",
+            "idAssunto": 3629,
+            "idCategoria": 1051,
+            "idMotivo": 3632,
+            "observacao": "CANCELAMENTO ",
+            "operador": "api-atendimento",
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": null,
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "Casas Bahia",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 50005001,
+              "idSkuExterno": null,
+              "marca": "Arno",
+              "nome": "Liquidificador Arno Power Max 700 Limpa Fácil LN60 Preto 700W com 5 Velocidades",
+              "peso": 1960,
+              "pesoCubado": 5.72,
+              "preco": -152.92,
+              "status": 1,
+              "tipoEstoque": "N",
+              "tipoSku": "Produto Físico",
+              "valorDescontoUnitario": -26.98,
+              "valorFreteUnitario": -9.99,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": -162.91,
+              "idSku": 50005001,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "18/02/2021 09:47:01",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": null,
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_TMA",
+                "descricao": "Tratativa Manual Atendimento"
+              }
+            },
+            {
+              "dataHora": "18/02/2021 08:17:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "DVC",
+                "descricao": "Devolução Via Varejo Confirmada"
+              }
+            },
+            {
+              "dataHora": "18/02/2021 05:14:29",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_PAP",
+                "descricao": "Pedido Aprovado (PROXY)"
+              }
+            },
+            {
+              "dataHora": "15/02/2021 16:23:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_PAP",
+                "descricao": "Pedido Aprovado (PROXY)"
+              }
+            },
+            {
+              "dataHora": "15/02/2021 16:23:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "TDS",
+                "descricao": "Troca/Devolução solicitada"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": ""
+          }
+        }
+      ],
+      "pedidoParceiro": {
+        "idCampanha": "",
+        "idContrato": null,
+        "nomeParceiro": null,
+        "idPedido": 254925292,
+        "idParceiro": null
+      },
+      "formasPagamento": [
+        {
+          "idPedidoFormaPagamento": 100957157,
+          "idFormaPagamento": 12,
+          "nomeFormaPagamento": "Boleto Bradesco",
+          "numeroContrato": null,
+          "quantidadeParcelas": 1,
+          "valor": 162.91,
+          "valorJuros": 0,
+          "valorReembolso": 0,
+          "statusAnalisePagamento": {
+            "codigoMaquineta": null,
+            "dataPrevisaoCredito": "01/01/0001 00:00:00",
+            "dataPrimeiroVencimento": "01/01/0001 00:00:00",
+            "descricaoMotivoReprovacao": null,
+            "gerarToken": false,
+            "idAdquirente": 0,
+            "idCartaoExpresso": 0,
+            "idClienteTE13": null,
+            "idClienteTokenizacao": 0,
+            "idGwPagto": null,
+            "meioPagamento": null,
+            "nossoNumero": "806674166",
+            "nsuAutorizadora": 0,
+            "nsuCtf": 0,
+            "numeroCartao6Digitos": null,
+            "numeroContrato": 0,
+            "numeroTerminal": "0",
+            "resultReq": 0,
+            "titularCartao": "",
+            "token": null,
+            "validadeCartao": null,
+            "valorJuros": 0,
+            "valorPrestacao": 0,
+            "valorTributos": 0,
+            "bandeiraCartao": null,
+            "codigoAutorizacao": null,
+            "codigoRetorno": 0,
+            "dataTransacao": "18/02/2021 00:00:00",
+            "idMotivoReprovacao": "0",
+            "idPedido": 254925292,
+            "idUnidadeNegocio": 8,
+            "itens": null,
+            "sequencial": 1,
+            "status": "AP",
+            "valorMeioPagamento": 16291,
+            "valorPago": 16291
+          },
+          "url": "https://meiosdepagamentobradesco.com.br/apiboleto/Bradesco?token=TDI3clA3a0RkQkp4Q0ViM3pRb0Ftb3hFR1hncnBhNTgvUC9SeGZOS1Rtdnh5aWE5ZTFrOWdpUVZsRDJ2aUdXTw..",
+          "pathImg": "/App_Themes/Loja/Images/FormaPagamento/46865.jpg",
+          "taxaJuros": 0,
+          "formaPagamentoCarneOnline": null,
+          "linhaDigitavel": null
+        }
+      ]
+    },
+    "Valido": true,
+    "Mensagens": [],
+    "Protocolo": "538fc5cb-20fa-4db4-9b80-7f41517e990a"
+  }

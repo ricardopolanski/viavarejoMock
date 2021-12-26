@@ -1,0 +1,1011 @@
+{
+    "pedido": {
+      "idPedido": 165231277,
+      "idPedidoOrigem": "",
+      "pedidoPlus": 0,
+      "idListaCompra": null,
+      "ipCliente": "189.4.72.6",
+      "tipoPedido": "Normal",
+      "dataPedido": "12/05/2019 14:25:00",
+      "valorJuros": 0,
+      "valorEmbalagem": 0,
+      "valorFrete": 0,
+      "valorDesconto": 0,
+      "valorTotal": 0,
+      "flagCompraSige": false,
+      "canalVenda": {
+        "idCanalVenda": "MOBI",
+        "descricao": "Mobile"
+      },
+      "destinatario": {
+        "cpfCnpj": "065.083.936-69",
+        "dataNascimento": "17/02/1984 00:00:00",
+        "email": "lilia-vasni@hotmail.com",
+        "nome": "Alverina Ferreira Campos",
+        "genero": "",
+        "endereco": {
+          "bairro": "Cantinho do céu",
+          "cep": "36955-000",
+          "complemento": "A",
+          "numero": 37,
+          "pontoReferencia": "Casa da Vera Coelho",
+          "rua": "Beco Padre Carlos",
+          "municipio": "Mutum",
+          "pais": "BRA",
+          "uf": "MG"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "2135014967"
+          },
+          {
+            "tipo": "",
+            "numero": "2183990038"
+          }
+        ]
+      },
+      "clienteFaturamento": {
+        "cpfCnpj": "065.083.936-69",
+        "dataNascimento": "17/02/1984 00:00:00",
+        "email": "lilia-vasni@hotmail.com",
+        "nome": "Lília Vasní",
+        "genero": "",
+        "endereco": {
+          "bairro": "Cantinho do céu",
+          "cep": "36955-000",
+          "complemento": "A",
+          "numero": 37,
+          "pontoReferencia": "Casa da Vera Coelho",
+          "rua": "Beco Padre Carlos",
+          "municipio": "Mutum",
+          "pais": "BRA",
+          "uf": "MG"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "2135014967"
+          },
+          {
+            "tipo": "",
+            "numero": "2183990038"
+          }
+        ]
+      },
+      "vendedor": {
+        "idVendedor": null,
+        "nome": null,
+        "login": null,
+        "Matricula": null,
+        "IdFilial": null
+      },
+      "utm": {
+        "midia": "BuscaOrganica",
+        "campanha": "DescontoEspecial",
+        "parceiro": "Google",
+        "statusPagamento": 0
+      },
+      "entregas": [
+        {
+          "idEntrega": 16523127701,
+          "idCompraEntrega": 74056316,
+          "idEntregaErp": 1,
+          "dataPrometida": "22/05/2019 00:00:00",
+          "dataAjustada": null,
+          "dataCorrigida": "29/05/2019 00:00:00",
+          "dataLimite": "15/05/2019 00:00:00",
+          "dataStatus": "30/08/2019 13:13:35",
+          "idEntregaOrigem": null,
+          "idTipoEntrega": 1,
+          "idPedidoMarketplace": null,
+          "idSolicitacaoOrigem": null,
+          "nomeTipoEntrega": "Normal",
+          "ordemDevolucao": null,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": 99.9,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 5,
+          "PrazoEntregaCliente": 7,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": false,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": "12/05/2019 14:28:57",
+            "status": "2 - Sucesso",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [],
+          "filial": {
+            "centroDistribuicao": "Contagem - Esgotamento Filial 35",
+            "nome": "CD_1760",
+            "idFilial": 1760,
+            "cnpj": "33041260146371",
+            "uf": "MG"
+          },
+          "lojista": {
+            "idLojista": 10037,
+            "nome": "Casas Bahia"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 97977,
+            "serie": "000",
+            "chaveNfe": "31190533041260131501550000000979771000979776"
+          },
+          "transportadora": {
+            "idTransportadora": 9329143000388,
+            "nome": "ON TIME EXPRESS LOGISTICA E TR"
+          },
+          "motivo": {
+            "assunto": null,
+            "categoria": null,
+            "data": null,
+            "motivo": null,
+            "idAssunto": 0,
+            "idCategoria": 0,
+            "idMotivo": 0,
+            "observacao": null,
+            "operador": null,
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": "",
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "Casas Bahia",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 411048,
+              "idSkuExterno": null,
+              "marca": "Britânia",
+              "nome": "Mixer Britânia 3 em 1 com Triturador de Alimento e Batedor de Claras - 200W",
+              "peso": 1370,
+              "pesoCubado": 3.65,
+              "preco": 99.9,
+              "status": 1,
+              "tipoEstoque": "N",
+              "tipoSku": "Produto Físico",
+              "valorDescontoUnitario": 0,
+              "valorFreteUnitario": 0,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": 99.9,
+              "idSku": 411048,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "30/08/2019 13:13:35",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": null,
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_TMA",
+                "descricao": "Tratativa Manual Atendimento"
+              }
+            },
+            {
+              "dataHora": "24/07/2019 10:22:52",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "RIE",
+                "descricao": "Recebimento de Insucesso de Entrega "
+              }
+            },
+            {
+              "dataHora": "24/07/2019 09:40:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "RTD",
+                "descricao": "Em rota de devolução"
+              }
+            },
+            {
+              "dataHora": "24/07/2019 09:40:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "RTD",
+                "descricao": "Em rota de devolução"
+              }
+            },
+            {
+              "dataHora": "28/05/2019 23:00:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "RBI",
+                "descricao": "Reabertura por baixa indevida"
+              }
+            },
+            {
+              "dataHora": "28/05/2019 23:00:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "RBI",
+                "descricao": "Reabertura por baixa indevida"
+              }
+            },
+            {
+              "dataHora": "28/05/2019 10:53:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ENT",
+                "descricao": "ENTREGUE AO CLIENTE"
+              }
+            },
+            {
+              "dataHora": "28/05/2019 10:53:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ENT",
+                "descricao": "ENTREGUE AO CLIENTE"
+              }
+            },
+            {
+              "dataHora": "27/05/2019 08:04:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ROT",
+                "descricao": "EM ROTA"
+              }
+            },
+            {
+              "dataHora": "23/05/2019 09:00:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "REE",
+                "descricao": "REENTREGA"
+              }
+            },
+            {
+              "dataHora": "18/05/2019 17:46:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ENL",
+                "descricao": "ENDERECO NÃO LOCALIZADO"
+              }
+            },
+            {
+              "dataHora": "17/05/2019 07:14:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ROT",
+                "descricao": "EM ROTA"
+              }
+            },
+            {
+              "dataHora": "15/05/2019 11:44:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "TRD",
+                "descricao": "TRANSFERIDO"
+              }
+            },
+            {
+              "dataHora": "14/05/2019 10:01:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PRT",
+                "descricao": "PEDIDO RECEBIDO PELA TRANSPORTADORA"
+              }
+            },
+            {
+              "dataHora": "13/05/2019 19:43:44",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ETR",
+                "descricao": "Entregue Transportadora"
+              }
+            },
+            {
+              "dataHora": "13/05/2019 19:31:16",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "NFS",
+                "descricao": "NF Emitida"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 22:34:48",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "WMS",
+                "descricao": "WMS"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:32:18",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AS6",
+                "descricao": "AGUARDANDO ROTEIRIZACAO"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:32:15",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PAP",
+                "descricao": "Pedido Aprovado"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:27:48",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AAP",
+                "descricao": "Enviado Pagamento"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:27:48",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAP",
+                "descricao": "Crédito Aprovado"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:27:16",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_PAP",
+                "descricao": "Pedido Aprovado (PROXY)"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:25:30",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AMC",
+                "descricao": "Analise Manual de Fraude"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:25:27",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "12/05/2019 14:25:26",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PEI",
+                "descricao": "Pedido Incluido"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": null
+          }
+        },
+        {
+          "idEntrega": 16523127702,
+          "idCompraEntrega": 74800696,
+          "idEntregaErp": 1,
+          "dataPrometida": "10/10/2020 02:14:00",
+          "dataAjustada": "03/05/2019 00:00:00",
+          "dataCorrigida": "19/06/2019 00:00:00",
+          "dataLimite": "16/06/2019 00:00:00",
+          "dataStatus": "28/08/2019 16:30:00",
+          "idEntregaOrigem": 16523127701,
+          "idTipoEntrega": 19,
+          "idPedidoMarketplace": null,
+          "idSolicitacaoOrigem": "190528-018941",
+          "nomeTipoEntrega": "Roubo/Extravio",
+          "ordemDevolucao": 5,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": -99.9,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 0,
+          "PrazoEntregaCliente": null,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": false,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": "10/10/2020 02:16:31",
+            "status": "1 - Enviado",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": "02/07/2019 00:00:00",
+            "dataPrevisaoRetornoCd": "17/07/2019 00:00:00",
+            "dataRetornoCd": "01/01/0001 00:00:00",
+            "dataRetornoCDCorrigida": "01/01/0001 00:00:00",
+            "dataRetornoCDAjustada": "14/06/2019 23:47:55",
+            "DataCorrigidaPrevisaoColeta": "19/06/2019 00:00:00",
+            "DataAjustadaPrevisaoColeta": "03/05/2019 00:00:00",
+            "idPedidoEntrega": 74800696,
+            "idPedidoEntregaStatusColeta": 368857,
+            "sroPostagem": "             ",
+            "dataPrevistaCliente": "02/07/2019 00:00:00",
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [
+            {
+              "idCompraEntregaEstorno": 1350102,
+              "dataStatus": null,
+              "dataValidade": "17/12/2019 20:37:59",
+              "nomeFormaPagamento": null,
+              "nomeTipoPagamento": "Vale                          ",
+              "status": {
+                "data": "25/10/2019 15:00:59",
+                "idDocumento": "111426855-816280-3",
+                "observacao": "2020-01-01",
+                "valorStatus": "Aberto"
+              },
+              "agencia": null,
+              "banco": null,
+              "conta": null,
+              "cpfCnpj": null,
+              "digitoAgencia": null,
+              "digitoConta": null,
+              "favorecido": "Lília Vasní",
+              "idCompraFormaPagamento": null,
+              "idFormaPagamento": null,
+              "rg": null,
+              "tipoConta": null,
+              "tipoPagamento": 2,
+              "valor": -99.9,
+              "valorJuros": 0
+            }
+          ],
+          "filial": {
+            "centroDistribuicao": "Contagem - Esgotamento Filial 35",
+            "nome": "CD_1760",
+            "idFilial": 1760,
+            "cnpj": "33041260146371",
+            "uf": "MG"
+          },
+          "lojista": {
+            "idLojista": 10037,
+            "nome": "Casas Bahia"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 125609,
+            "serie": "000",
+            "chaveNfe": "31190633041260131501550000001256091001256099"
+          },
+          "transportadora": {
+            "idTransportadora": 10642884000131,
+            "nome": "PRIME EXPRESS LOGISTICA E TRAN"
+          },
+          "motivo": {
+            "assunto": "Entrega",
+            "categoria": "Reclamação",
+            "data": "14/06/2019 20:37:59",
+            "motivo": "Desconhece entrega",
+            "idAssunto": 1099,
+            "idCategoria": 1050,
+            "idMotivo": 2280,
+            "observacao": "cancel/vale/baixaindevida",
+            "operador": "api-atendimento",
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": "",
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "Casas Bahia",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 411048,
+              "idSkuExterno": null,
+              "marca": "Britânia",
+              "nome": "Mixer Britânia 3 em 1 com Triturador de Alimento e Batedor de Claras - 200W",
+              "peso": 1370,
+              "pesoCubado": 3.65,
+              "preco": -99.9,
+              "status": 1,
+              "tipoEstoque": "N",
+              "tipoSku": "Produto Físico",
+              "valorDescontoUnitario": 0,
+              "valorFreteUnitario": 0,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": -99.9,
+              "idSku": 411048,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "28/08/2019 16:30:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "INC0771150",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_TMA",
+                "descricao": "Tratativa Manual Atendimento"
+              }
+            },
+            {
+              "dataHora": "19/08/2019 14:38:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "VAL",
+                "descricao": "VALE CRIADO"
+              }
+            },
+            {
+              "dataHora": "24/07/2019 09:47:41",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CPC",
+                "descricao": "Desistência do processo de coleta"
+              }
+            },
+            {
+              "dataHora": "03/07/2019 00:37:26",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "DVC",
+                "descricao": "Devolução Via Varejo Confirmada"
+              }
+            },
+            {
+              "dataHora": "03/07/2019 00:37:26",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "DVC",
+                "descricao": "Devolução Via Varejo Confirmada"
+              }
+            },
+            {
+              "dataHora": "19/06/2019 17:17:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CRI",
+                "descricao": "Cancelamento de Reversa Gerada Indevidamente"
+              }
+            },
+            {
+              "dataHora": "19/06/2019 17:17:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CRI",
+                "descricao": "Cancelamento de Reversa Gerada Indevidamente"
+              }
+            },
+            {
+              "dataHora": "19/06/2019 15:35:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "DES",
+                "descricao": "Descarte autorizado"
+              }
+            },
+            {
+              "dataHora": "19/06/2019 15:35:00",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "DES",
+                "descricao": "Descarte autorizado"
+              }
+            },
+            {
+              "dataHora": "19/06/2019 11:52:40",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CTR",
+                "descricao": "Coleta enviada para Transportador"
+              }
+            },
+            {
+              "dataHora": "19/06/2019 11:52:40",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CTR",
+                "descricao": "Coleta enviada para Transportador"
+              }
+            },
+            {
+              "dataHora": "17/06/2019 15:18:28",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "NFS",
+                "descricao": "NF Emitida"
+              }
+            },
+            {
+              "dataHora": "17/06/2019 15:18:28",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "NFS",
+                "descricao": "NF Emitida"
+              }
+            },
+            {
+              "dataHora": "17/06/2019 15:17:01",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "NFE",
+                "descricao": "NOTA FISCAL ELETRONICA"
+              }
+            },
+            {
+              "dataHora": "17/06/2019 15:17:01",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "NFE",
+                "descricao": "NOTA FISCAL ELETRONICA"
+              }
+            },
+            {
+              "dataHora": "17/06/2019 15:15:11",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ADE",
+                "descricao": "Alteração na data de entrega"
+              }
+            },
+            {
+              "dataHora": "17/06/2019 15:15:11",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ADE",
+                "descricao": "Alteração na data de entrega"
+              }
+            },
+            {
+              "dataHora": "14/06/2019 20:46:15",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AS6",
+                "descricao": "AGUARDANDO ROTEIRIZACAO"
+              }
+            },
+            {
+              "dataHora": "14/06/2019 20:44:49",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "TNC",
+                "descricao": "Transportadora não atende a coleta"
+              }
+            },
+            {
+              "dataHora": "14/06/2019 20:44:43",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "COS",
+                "descricao": "Coleta Solicitada"
+              }
+            },
+            {
+              "dataHora": "14/06/2019 20:37:59",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_PAP",
+                "descricao": "Pedido Aprovado (PROXY)"
+              }
+            },
+            {
+              "dataHora": "14/06/2019 20:37:59",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "TDS",
+                "descricao": "Troca/Devolução solicitada"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": true,
+            "dataSoliticacao": "24/06/2019 15:41:58",
+            "operador": "Genesia FERREIRA DE OLIVEIRA ",
+            "idStatus": "4",
+            "descricaoStatus": "Confirmado ERP",
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": ""
+          }
+        }
+      ],
+      "pedidoParceiro": {
+        "idCampanha": "",
+        "idContrato": null,
+        "nomeParceiro": null,
+        "idPedido": 165231277,
+        "idParceiro": null
+      },
+      "formasPagamento": [
+        {
+          "idPedidoFormaPagamento": 59784706,
+          "idFormaPagamento": 1,
+          "nomeFormaPagamento": "Cartão de Crédito Visa ",
+          "numeroContrato": null,
+          "quantidadeParcelas": 1,
+          "valor": 99.9,
+          "valorJuros": 0,
+          "valorReembolso": 0,
+          "statusAnalisePagamento": {
+            "codigoMaquineta": "1052678170",
+            "dataPrevisaoCredito": "01/01/0001 00:00:00",
+            "dataPrimeiroVencimento": "01/01/0001 00:00:00",
+            "descricaoMotivoReprovacao": null,
+            "gerarToken": false,
+            "idAdquirente": 1,
+            "idCartaoExpresso": 0,
+            "idClienteTE13": null,
+            "idClienteTokenizacao": 0,
+            "idGwPagto": "2870e258-a300-450d-9b62-f771c78b69ea",
+            "meioPagamento": null,
+            "nossoNumero": null,
+            "nsuAutorizadora": 30453,
+            "nsuCtf": 30453,
+            "numeroCartao6Digitos": "412177******3347",
+            "numeroContrato": 0,
+            "numeroTerminal": "11210987",
+            "resultReq": 0,
+            "titularCartao": "Lilia Freitas",
+            "token": null,
+            "validadeCartao": null,
+            "valorJuros": 0,
+            "valorPrestacao": 0,
+            "valorTributos": 0,
+            "bandeiraCartao": null,
+            "codigoAutorizacao": "051324",
+            "codigoRetorno": 6,
+            "dataTransacao": "12/05/2019 14:25:30",
+            "idMotivoReprovacao": "0",
+            "idPedido": 165231277,
+            "idUnidadeNegocio": 8,
+            "itens": null,
+            "sequencial": 1,
+            "status": "AP",
+            "valorMeioPagamento": 9990,
+            "valorPago": 9990
+          },
+          "url": "",
+          "pathImg": "/App_Themes/Loja/Images/FormaPagamento/46861.jpg",
+          "taxaJuros": 0,
+          "formaPagamentoCarneOnline": null,
+          "linhaDigitavel": null
+        }
+      ]
+    },
+    "Valido": true,
+    "Mensagens": [],
+    "Protocolo": "3a808583-cebc-48f7-8dbc-b1aabda067c6"
+  }
+  

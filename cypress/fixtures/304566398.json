@@ -1,0 +1,945 @@
+{
+    "pedido": {
+      "idPedido": 304566398,
+      "idPedidoOrigem": "",
+      "pedidoPlus": 0,
+      "idListaCompra": null,
+      "ipCliente": "2804:389:a0c8:f05e:795c:b12a:6d4f:81b",
+      "tipoPedido": "Normal",
+      "dataPedido": "13/12/2021 03:31:00",
+      "valorJuros": 0,
+      "valorEmbalagem": 0,
+      "valorFrete": 66.09,
+      "valorDesconto": 0,
+      "valorTotal": 363.06,
+      "flagCompraSige": false,
+      "canalVenda": {
+        "idCanalVenda": "MOBI",
+        "descricao": "Mobile"
+      },
+      "destinatario": {
+        "cpfCnpj": "034.994.691-46",
+        "dataNascimento": "21/07/2000 00:00:00",
+        "email": "enzobassollif.b.0512@gmail.com",
+        "nome": "Julia Marques",
+        "genero": "",
+        "endereco": {
+          "bairro": "Núcleo Bandeirante",
+          "cep": "71720-011",
+          "complemento": "",
+          "numero": 6,
+          "pontoReferencia": "perto da igreja",
+          "rua": "Terceira Avenida Bloco 1300",
+          "municipio": "Brasília",
+          "pais": "BRA",
+          "uf": "DF"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "61994123597"
+          },
+          {
+            "tipo": "",
+            "numero": "61994123597"
+          }
+        ]
+      },
+      "clienteFaturamento": {
+        "cpfCnpj": "034.994.691-46",
+        "dataNascimento": "21/07/2000 00:00:00",
+        "email": "enzobassollif.b.0512@gmail.com",
+        "nome": "Julia Marques",
+        "genero": "",
+        "endereco": {
+          "bairro": "Núcleo Bandeirante",
+          "cep": "71720-011",
+          "complemento": "",
+          "numero": 6,
+          "pontoReferencia": "perto da igreja",
+          "rua": "Terceira Avenida Bloco 1300",
+          "municipio": "Brasília",
+          "pais": "BRA",
+          "uf": "DF"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "61994123597"
+          },
+          {
+            "tipo": "",
+            "numero": "61994123597"
+          }
+        ]
+      },
+      "vendedor": {
+        "idVendedor": null,
+        "nome": null,
+        "login": null,
+        "Matricula": null,
+        "IdFilial": null
+      },
+      "utm": {
+        "midia": null,
+        "campanha": null,
+        "parceiro": null,
+        "statusPagamento": 2
+      },
+      "entregas": [
+        {
+          "idEntrega": 30456639801,
+          "idCompraEntrega": 102226619,
+          "idEntregaErp": 0,
+          "dataPrometida": "17/12/2021 00:00:00",
+          "dataAjustada": null,
+          "dataCorrigida": null,
+          "dataLimite": null,
+          "dataStatus": "14/12/2021 04:21:02",
+          "idEntregaOrigem": null,
+          "idTipoEntrega": 1,
+          "idPedidoMarketplace": 304566398014498900,
+          "idSolicitacaoOrigem": null,
+          "nomeTipoEntrega": "Normal",
+          "ordemDevolucao": null,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": 121.02,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 4,
+          "PrazoEntregaCliente": 4,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": true,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": null,
+            "status": "Desconhecido",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [],
+          "filial": {
+            "centroDistribuicao": null,
+            "nome": null,
+            "idFilial": 0,
+            "cnpj": null,
+            "uf": null
+          },
+          "lojista": {
+            "idLojista": 44989,
+            "nome": "CURRENT T.I INFORMATICA"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 0,
+            "serie": null,
+            "chaveNfe": null
+          },
+          "transportadora": {
+            "idTransportadora": null,
+            "nome": null
+          },
+          "motivo": {
+            "assunto": null,
+            "categoria": null,
+            "data": null,
+            "motivo": null,
+            "idAssunto": 0,
+            "idCategoria": 0,
+            "idMotivo": 0,
+            "observacao": null,
+            "operador": null,
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": null,
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "CURRENT T.I INFORMATICA",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 1033941633,
+              "idSkuExterno": null,
+              "marca": "BOS",
+              "nome": "Pod Descartável Bos - 2000 Puffs",
+              "peso": 2000,
+              "pesoCubado": 0,
+              "preco": 98.99,
+              "status": null,
+              "tipoEstoque": "N",
+              "tipoSku": "Marketplace",
+              "valorDescontoUnitario": 0,
+              "valorFreteUnitario": 22.03,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": 121.02,
+              "idSku": 1526188455,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "14/12/2021 04:21:02",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "14/12/2021 04:21:02",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "14/12/2021 04:21:01",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "REV",
+                "descricao": "Recuperação de Vendas"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AAP",
+                "descricao": "Enviado Pagamento"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAP",
+                "descricao": "Crédito Aprovado"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AMC",
+                "descricao": "Analise Manual de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:18:22",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "integracao-rpa-modelo",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:11",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_RPA",
+                "descricao": "Revisado Permitida Aprovacao"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PEI",
+                "descricao": "Pedido Incluido"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": null
+          }
+        },
+        {
+          "idEntrega": 30456639802,
+          "idCompraEntrega": 102226620,
+          "idEntregaErp": 0,
+          "dataPrometida": "17/12/2021 00:00:00",
+          "dataAjustada": null,
+          "dataCorrigida": null,
+          "dataLimite": null,
+          "dataStatus": "14/12/2021 04:21:02",
+          "idEntregaOrigem": null,
+          "idTipoEntrega": 1,
+          "idPedidoMarketplace": 304566398024498900,
+          "idSolicitacaoOrigem": null,
+          "nomeTipoEntrega": "Normal",
+          "ordemDevolucao": null,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": 121.02,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 4,
+          "PrazoEntregaCliente": 4,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": true,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": null,
+            "status": "Desconhecido",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [],
+          "filial": {
+            "centroDistribuicao": null,
+            "nome": null,
+            "idFilial": 0,
+            "cnpj": null,
+            "uf": null
+          },
+          "lojista": {
+            "idLojista": 44989,
+            "nome": "CURRENT T.I INFORMATICA"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 0,
+            "serie": null,
+            "chaveNfe": null
+          },
+          "transportadora": {
+            "idTransportadora": null,
+            "nome": null
+          },
+          "motivo": {
+            "assunto": null,
+            "categoria": null,
+            "data": null,
+            "motivo": null,
+            "idAssunto": 0,
+            "idCategoria": 0,
+            "idMotivo": 0,
+            "observacao": null,
+            "operador": null,
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": null,
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "CURRENT T.I INFORMATICA",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 1033941633,
+              "idSkuExterno": null,
+              "marca": "BOS",
+              "nome": "Pod Descartável Bos - 2000 Puffs",
+              "peso": 2000,
+              "pesoCubado": 0,
+              "preco": 98.99,
+              "status": null,
+              "tipoEstoque": "N",
+              "tipoSku": "Marketplace",
+              "valorDescontoUnitario": 0,
+              "valorFreteUnitario": 22.03,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": 121.02,
+              "idSku": 1526188455,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "14/12/2021 04:21:02",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "14/12/2021 04:21:02",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "14/12/2021 04:21:01",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "REV",
+                "descricao": "Recuperação de Vendas"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AAP",
+                "descricao": "Enviado Pagamento"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAP",
+                "descricao": "Crédito Aprovado"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AMC",
+                "descricao": "Analise Manual de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:18:22",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "integracao-rpa-modelo",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:11",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_RPA",
+                "descricao": "Revisado Permitida Aprovacao"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PEI",
+                "descricao": "Pedido Incluido"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": null
+          }
+        },
+        {
+          "idEntrega": 30456639803,
+          "idCompraEntrega": 102226621,
+          "idEntregaErp": 0,
+          "dataPrometida": "17/12/2021 00:00:00",
+          "dataAjustada": null,
+          "dataCorrigida": null,
+          "dataLimite": null,
+          "dataStatus": "14/12/2021 04:21:02",
+          "idEntregaOrigem": null,
+          "idTipoEntrega": 1,
+          "idPedidoMarketplace": 304566398034498900,
+          "idSolicitacaoOrigem": null,
+          "nomeTipoEntrega": "Normal",
+          "ordemDevolucao": null,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": 121.02,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 4,
+          "PrazoEntregaCliente": 4,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": true,
+          "sequencialCompra": null,
+          "integracao": {
+            "data": null,
+            "status": "Desconhecido",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [],
+          "filial": {
+            "centroDistribuicao": null,
+            "nome": null,
+            "idFilial": 0,
+            "cnpj": null,
+            "uf": null
+          },
+          "lojista": {
+            "idLojista": 44989,
+            "nome": "CURRENT T.I INFORMATICA"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 0,
+            "serie": null,
+            "chaveNfe": null
+          },
+          "transportadora": {
+            "idTransportadora": null,
+            "nome": null
+          },
+          "motivo": {
+            "assunto": null,
+            "categoria": null,
+            "data": null,
+            "motivo": null,
+            "idAssunto": 0,
+            "idCategoria": 0,
+            "idMotivo": 0,
+            "observacao": null,
+            "operador": null,
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": null,
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "CURRENT T.I INFORMATICA",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": null,
+              "idSkuMarketplace": 1033941633,
+              "idSkuExterno": null,
+              "marca": "BOS",
+              "nome": "Pod Descartável Bos - 2000 Puffs",
+              "peso": 2000,
+              "pesoCubado": 0,
+              "preco": 98.99,
+              "status": null,
+              "tipoEstoque": "N",
+              "tipoSku": "Marketplace",
+              "valorDescontoUnitario": 0,
+              "valorFreteUnitario": 22.03,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": 121.02,
+              "idSku": 1526188455,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "14/12/2021 04:21:02",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "14/12/2021 04:21:02",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "14/12/2021 04:21:01",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAN",
+                "descricao": "Cancelado"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "REV",
+                "descricao": "Recuperação de Vendas"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AAP",
+                "descricao": "Enviado Pagamento"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAP",
+                "descricao": "Crédito Aprovado"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:21:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AMC",
+                "descricao": "Analise Manual de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 04:18:22",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "integracao-rpa-modelo",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:11",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_RPA",
+                "descricao": "Revisado Permitida Aprovacao"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "13/12/2021 03:31:07",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PEI",
+                "descricao": "Pedido Incluido"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": null
+          }
+        }
+      ],
+      "pedidoParceiro": {
+        "idCampanha": "",
+        "idContrato": null,
+        "nomeParceiro": null,
+        "idPedido": 304566398,
+        "idParceiro": null
+      },
+      "formasPagamento": [
+        {
+          "idPedidoFormaPagamento": 81554649,
+          "idFormaPagamento": 3,
+          "nomeFormaPagamento": "Cartão de Crédito MasterCard",
+          "numeroContrato": null,
+          "quantidadeParcelas": 1,
+          "valor": 363.06,
+          "valorJuros": 0,
+          "valorReembolso": 0,
+          "statusAnalisePagamento": null,
+          "url": "",
+          "pathImg": "/App_Themes/Loja/Images/FormaPagamento/46859.jpg",
+          "taxaJuros": 0,
+          "formaPagamentoCarneOnline": null,
+          "linhaDigitavel": null
+        }
+      ]
+    },
+    "Valido": true,
+    "Mensagens": [],
+    "Protocolo": "2b43ac26-6e88-41c4-80bc-0172af3aa260"
+  }

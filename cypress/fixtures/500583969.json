@@ -1,0 +1,388 @@
+{
+    "pedido": {
+      "idPedido": 500583969,
+      "idPedidoOrigem": "",
+      "pedidoPlus": 0,
+      "idListaCompra": null,
+      "ipCliente": "10.191.43.192",
+      "tipoPedido": "Normal",
+      "dataPedido": "23/12/2021 10:16:00",
+      "valorJuros": 0,
+      "valorEmbalagem": 0,
+      "valorFrete": 34,
+      "valorDesconto": 0,
+      "valorTotal": 233.9,
+      "flagCompraSige": false,
+      "canalVenda": {
+        "idCanalVenda": "SITE",
+        "descricao": "Site"
+      },
+      "destinatario": {
+        "cpfCnpj": "688.189.399-04",
+        "dataNascimento": "29/06/1968 00:00:00",
+        "email": "isa.manfredini-ext@viavarejo.com.br",
+        "nome": "Eu de novo",
+        "genero": "",
+        "endereco": {
+          "bairro": "Vila Bela Aliança",
+          "cep": "05078-040",
+          "complemento": "",
+          "numero": 3423,
+          "pontoReferencia": "Perto de lá",
+          "rua": "Praça do Acemista",
+          "municipio": "São Paulo",
+          "pais": "BRA",
+          "uf": "SP"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "4134564444"
+          },
+          {
+            "tipo": "",
+            "numero": "41985622336"
+          }
+        ]
+      },
+      "clienteFaturamento": {
+        "cpfCnpj": "688.189.399-04",
+        "dataNascimento": "29/06/1968 00:00:00",
+        "email": "isa.manfredini-ext@viavarejo.com.br",
+        "nome": "Squad Restituição Financeira - Isa",
+        "genero": "",
+        "endereco": {
+          "bairro": "Vila Bela Aliança",
+          "cep": "05078-040",
+          "complemento": "",
+          "numero": 3423,
+          "pontoReferencia": "Perto de lá",
+          "rua": "Praça do Acemista",
+          "municipio": "São Paulo",
+          "pais": "BRA",
+          "uf": "SP"
+        },
+        "telefones": [
+          {
+            "tipo": "",
+            "numero": "4134564444"
+          },
+          {
+            "tipo": "",
+            "numero": "41985622336"
+          }
+        ]
+      },
+      "vendedor": {
+        "idVendedor": null,
+        "nome": null,
+        "login": null,
+        "Matricula": null,
+        "IdFilial": null
+      },
+      "utm": {
+        "midia": "",
+        "campanha": "",
+        "parceiro": "",
+        "statusPagamento": 0
+      },
+      "entregas": [
+        {
+          "idEntrega": 50058396901,
+          "idCompraEntrega": 82478306,
+          "idEntregaErp": 1,
+          "dataPrometida": "12/01/2022 10:21:00",
+          "dataAjustada": null,
+          "dataCorrigida": null,
+          "dataLimite": null,
+          "dataStatus": "23/12/2021 10:20:35",
+          "idEntregaOrigem": null,
+          "idTipoEntrega": 1,
+          "idPedidoMarketplace": 500583969011049700,
+          "idSolicitacaoOrigem": null,
+          "nomeTipoEntrega": "Normal",
+          "ordemDevolucao": null,
+          "sroEntrega": null,
+          "permiteLiberarEntrega": false,
+          "valorEntrega": 233.9,
+          "tipoRestricao": "WN",
+          "PrazoTransportadora": 14,
+          "PrazoEntregaCliente": 14,
+          "classificacao": null,
+          "UrlRastreio": null,
+          "envias": false,
+          "sequencialCompra": 1,
+          "integracao": {
+            "data": "23/12/2021 10:20:35",
+            "status": "2 - Sucesso",
+            "sat": null,
+            "std": null
+          },
+          "cargaTransportador": [],
+          "folhaTrabalho": {
+            "numero": 0,
+            "empresaEmissao": null,
+            "filialEmissao": null,
+            "empresaCupom": null,
+            "filialCupom": null,
+            "dataCupom": null,
+            "maquinaCupom": null,
+            "numeroCupom": null,
+            "chaveCupom": null
+          },
+          "coleta": {
+            "dataPrevisao": null,
+            "dataPrevisaoRetornoCd": null,
+            "dataRetornoCd": null,
+            "dataRetornoCDCorrigida": null,
+            "dataRetornoCDAjustada": null,
+            "DataCorrigidaPrevisaoColeta": null,
+            "DataAjustadaPrevisaoColeta": null,
+            "idPedidoEntrega": 0,
+            "idPedidoEntregaStatusColeta": 0,
+            "sroPostagem": null,
+            "dataPrevistaCliente": null,
+            "loja": {
+              "nome": null,
+              "cnpj": null
+            }
+          },
+          "agendada": {
+            "data": null,
+            "periodo": null
+          },
+          "estornos": [],
+          "filial": {
+            "centroDistribuicao": null,
+            "nome": null,
+            "idFilial": 0,
+            "cnpj": null,
+            "uf": null
+          },
+          "lojista": {
+            "idLojista": 10497,
+            "nome": "Leveros"
+          },
+          "notaFiscal": {
+            "idNotaFiscal": 0,
+            "serie": null,
+            "chaveNfe": null
+          },
+          "transportadora": {
+            "idTransportadora": 0,
+            "nome": null
+          },
+          "motivo": {
+            "assunto": null,
+            "categoria": null,
+            "data": null,
+            "motivo": null,
+            "idAssunto": 0,
+            "idCategoria": 0,
+            "idMotivo": 0,
+            "observacao": null,
+            "operador": null,
+            "justificativa": null,
+            "canalTrocaCancelamento": null
+          },
+          "redespacho": {
+            "cnpj": null,
+            "observacaoTransportadora": null,
+            "enderecoLoja": null,
+            "horarioFuncionamento": null
+          },
+          "loja": {
+            "nome": "Leveros",
+            "cnpj": null
+          },
+          "skus": [
+            {
+              "dataPreVenda": "28/05/2019 15:27:00",
+              "idSkuMarketplace": 3614060,
+              "idSkuExterno": null,
+              "marca": "Mondial",
+              "nome": "Ventilador de Coluna Mondial Black Premium com 3 Velocidades - Preto",
+              "peso": 3500,
+              "pesoCubado": 17.43,
+              "preco": 199.9,
+              "status": null,
+              "tipoEstoque": "N",
+              "tipoSku": "Marketplace",
+              "valorDescontoUnitario": 0,
+              "valorFreteUnitario": 34,
+              "valorJurosUnitario": 0,
+              "valorStUnitario": 0,
+              "valorTotal": 233.9,
+              "idSku": 3614060,
+              "quantidade": 1,
+              "valorUnitario": 0,
+              "SkuKitFilhos": null,
+              "servicos": [],
+              "garantiaAvulsa": {
+                "idPedido": 0,
+                "idEntrega": 0,
+                "idSku": 0
+              },
+              "sequencial": 1
+            }
+          ],
+          "trackings": [
+            {
+              "dataHora": "23/12/2021 10:20:35",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "data-pipeline-integration",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PAP",
+                "descricao": "Pedido Aprovado"
+              }
+            },
+            {
+              "dataHora": "23/12/2021 10:18:47",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "_PAP",
+                "descricao": "Pedido Aprovado (PROXY)"
+              }
+            },
+            {
+              "dataHora": "23/12/2021 10:18:13",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AAP",
+                "descricao": "Enviado Pagamento"
+              }
+            },
+            {
+              "dataHora": "23/12/2021 10:18:13",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "PROXY",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "CAP",
+                "descricao": "Crédito Aprovado"
+              }
+            },
+            {
+              "dataHora": "23/12/2021 10:18:12",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "ERP",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "AMC",
+                "descricao": "Analise Manual de Fraude"
+              }
+            },
+            {
+              "dataHora": "23/12/2021 10:16:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "ACR",
+                "descricao": "Aguardando Análise de Fraude"
+              }
+            },
+            {
+              "dataHora": "23/12/2021 10:16:25",
+              "descricaoSac": null,
+              "idEnvioEmail": null,
+              "operador": "SITE",
+              "statusEmailEnviado": null,
+              "pontoControle": {
+                "idPontoControle": "PEI",
+                "descricao": "Pedido Incluido"
+              }
+            }
+          ],
+          "liberacaoEntrega": {
+            "forcada": false,
+            "dataSoliticacao": null,
+            "operador": null,
+            "idStatus": null,
+            "descricaoStatus": null,
+            "mensagemErroERP": null,
+            "dataUltimoErroERP": null
+          },
+          "postagem": {
+            "codigo": null
+          }
+        }
+      ],
+      "pedidoParceiro": {
+        "idCampanha": "",
+        "idContrato": null,
+        "nomeParceiro": null,
+        "idPedido": 500583969,
+        "idParceiro": null
+      },
+      "formasPagamento": [
+        {
+          "idPedidoFormaPagamento": 60374841,
+          "idFormaPagamento": 12,
+          "nomeFormaPagamento": "Boleto Bradesco",
+          "numeroContrato": null,
+          "quantidadeParcelas": 1,
+          "valor": 233.9,
+          "valorJuros": 0,
+          "valorReembolso": 0,
+          "statusAnalisePagamento": {
+            "codigoMaquineta": null,
+            "dataPrevisaoCredito": "01/01/0001 00:00:00",
+            "dataPrimeiroVencimento": "01/01/0001 00:00:00",
+            "descricaoMotivoReprovacao": null,
+            "gerarToken": false,
+            "idAdquirente": 0,
+            "idCartaoExpresso": 0,
+            "idClienteTE13": null,
+            "idClienteTokenizacao": 0,
+            "idGwPagto": "f8539935-ef85-4c4a-87ec-e857a0f19b87",
+            "meioPagamento": null,
+            "nossoNumero": "60349413",
+            "nsuAutorizadora": 0,
+            "nsuCtf": 0,
+            "numeroCartao6Digitos": null,
+            "numeroContrato": 0,
+            "numeroTerminal": "0",
+            "resultReq": 0,
+            "titularCartao": "",
+            "token": null,
+            "validadeCartao": null,
+            "valorJuros": 0,
+            "valorPrestacao": 0,
+            "valorTributos": 0,
+            "bandeiraCartao": null,
+            "codigoAutorizacao": null,
+            "codigoRetorno": 0,
+            "dataTransacao": "24/02/2021 12:40:35",
+            "idMotivoReprovacao": "14",
+            "idPedido": 500583969,
+            "idUnidadeNegocio": 1,
+            "itens": null,
+            "sequencial": 1,
+            "status": "AP",
+            "valorMeioPagamento": 23390,
+            "valorPago": 23390
+          },
+          "url": "https://transactionsandbox.pagador.com.br/post/pagador/reenvia.asp/932dc043-25ee-4032-a5ab-88ebadc62674",
+          "pathImg": "/App_Themes/Loja/Images/FormaPagamento/46865.jpg",
+          "taxaJuros": 0,
+          "formaPagamentoCarneOnline": null,
+          "linhaDigitavel": null
+        }
+      ]
+    },
+    "Valido": true,
+    "Mensagens": [],
+    "Protocolo": "7aa3de02-e4eb-483d-8471-bcd09742c8a6"
+  }
